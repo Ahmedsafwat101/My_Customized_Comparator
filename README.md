@@ -1,5 +1,9 @@
 # My_Customized_Comparator
   Customized Comparator for sorting objects based on the age of name of Student Class
+  I used the same concept to solve
+  
+   1- [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&h_r=next-challenge&h_v=zen&isFullScreen=false&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D%5B%5D=sorting) 
+   
 # Student Class
  ![alt text](https://github.com/Ahmedsafwat101/My_Customized_Comparator/blob/main/Pictures/pic1.jpg)
 
